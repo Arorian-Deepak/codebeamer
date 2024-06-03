@@ -1,6 +1,9 @@
 # JAVA CODE
- Class Test{
+import package java;
+
+Class Test{
     Publci Static void main(){
-      System.out.println("Hello!");
+      System.out.println("Hello!"); 
+     
     }
 }
